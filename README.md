@@ -55,4 +55,10 @@ Host (useful for support):
   
  ## Visual Studio 2017
  
- Visual Studio 2017 : version 15.8.7
+Microsoft Visual Studio Community 2017 
+Version 15.8.7
+VisualStudio.15.Release/15.8.7+28010.2046
+Microsoft .NET Framework
+Version 4.7.03056
+
+Installed Version: Community
