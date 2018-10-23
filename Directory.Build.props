@@ -1,0 +1,7 @@
+<Project>
+  <!--
+  <PropertyGroup Condition=" '$(UsingMicrosoftNETSdk)' == 'true' ">
+    <CustomCondition>true</CustomCondition>
+  </PropertyGroup>
+  -->
+</Project>
