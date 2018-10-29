@@ -1,5 +1,15 @@
 <Project>
+  <Choose>
+    <When Condition=" '$(CustomCondition)' == 'true' ">
+      <ItemGroup>
+        <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.6.1" />
+      </ItemGroup>
+    </When>
+  </Choose>
+    
+  <!--
   <ItemGroup Condition=" '$(CustomCondition)' == 'true' ">
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.6.1" />
   </ItemGroup>
+  -->
 </Project>
